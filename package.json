@@ -1,0 +1,23 @@
+{
+  "name": "simple-util-js",
+  "version": "1.0.0",
+  "description": "use simple utils!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugene94/simple-util-js.git"
+  },
+  "keywords": [
+    "utils",
+    "js"
+  ],
+  "author": "jinseong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eugene94/simple-util-js/issues"
+  },
+  "homepage": "https://github.com/eugene94/simple-util-js#readme"
+}

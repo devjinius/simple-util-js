@@ -1,7 +1,5 @@
-import throttle from './src/throttle';
-import debounce from './src/debounce';
+import throttle from './src/throttle.js';
+import debounce from './src/debounce.js';
+import { qs, qsa, removeNodes, isContainClass } from './src/dom.js';
 
-export default {
-  throttle,
-  debounce
-};
+export { throttle, debounce, qs, qsa, removeNodes, isContainClass };
